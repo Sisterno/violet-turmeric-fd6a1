@@ -10,7 +10,7 @@ sections:
       one to three sentences, but can be changed as you prefer.
   - section_id: about
     type: section_content
-    title: About
+    title: "Who\_ is this guy?"
     content: >-
       This is the "about" excerpt. It can be used to provide a paragraph about
       yourself that people can read on the homepage to get a sense of who you
