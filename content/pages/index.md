@@ -20,7 +20,7 @@ sections:
         url: /contact
         style: button
   - title: PRojects
-    section_id: lorem-ipsum
+    section_id: PROJECTS
     image_alt: lorem-ipsum
     content: >-
       ## Lorem ipsum
