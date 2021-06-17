@@ -19,7 +19,7 @@ sections:
       - label: Contact Me
         url: /contact
         style: button
-  - title: PRojects
+  - title: Projects
     section_id: PROJECTS
     image_alt: lorem-ipsum
     content: >-
