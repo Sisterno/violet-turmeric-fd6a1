@@ -22,7 +22,8 @@ export {
     SectionContent,
     SectionForm,
     SectionHero,
-    SectionPosts
+    SectionPosts,
+    SectionTest
 };
 
 export default {
@@ -36,5 +37,6 @@ export default {
     SectionContent,
     SectionForm,
     SectionHero,
-    SectionPosts
+    SectionPostsl,
+    SectionTest
 };
