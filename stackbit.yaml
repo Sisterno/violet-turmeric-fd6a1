@@ -429,7 +429,7 @@ models:
           type: model
           models:
             - action
-  section_content:
+  section_test:
     type: object
     label: Test Section
     extends:
