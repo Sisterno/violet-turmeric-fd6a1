@@ -19,8 +19,8 @@ sections:
       - label: Contact Me
         url: /contact
         style: button
-  - title: lorem-ipsum XD
-    section_id: lorem-ipsum
+  - section_id: lorem-ipsum
+    title: lorem-ipsum XD
     image_alt: lorem-ipsum
     content: >-
       ## Lorem ipsum
