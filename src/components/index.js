@@ -37,6 +37,6 @@ export default {
     SectionContent,
     SectionForm,
     SectionHero,
-    SectionPostsl,
+    SectionPosts,
     SectionTest
 };
