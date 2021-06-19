@@ -431,7 +431,7 @@ models:
             - action
   section_content:
     type: object
-    label: Content Section
+    label: Test Section
     extends:
       - section
     fields:
