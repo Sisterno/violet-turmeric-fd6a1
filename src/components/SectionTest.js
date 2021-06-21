@@ -36,6 +36,7 @@ export default class SectionTest extends React.Component {
                     </div>
                 )} */}
                 {!_.isEmpty(content) && (
+                    content.map()
                     <div className="block-buttons inner-sm">
                         XD
                     </div>
