@@ -23,7 +23,6 @@ sections:
     section_id: lorem-ipsum
     content:
       - image_alt: lorem-ipsum
-        Mini-titulo: lorem-i
     type: section_test
 seo:
   title: Stackbit Fresh Theme
