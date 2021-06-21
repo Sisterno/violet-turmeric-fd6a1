@@ -24,7 +24,7 @@ sections:
     content:
       - image_alt: lorem-ipsum
         Mini-titulo: Hola
-        image: /images/5.jpg
+        image: /images/Captura web_17-6-2021_153816_localhost.jpeg
     type: section_test
 seo:
   title: Stackbit Fresh Theme
