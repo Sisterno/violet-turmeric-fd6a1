@@ -25,8 +25,7 @@ sections:
       - Mini-titulo: Hola
         image: /images/Captura web_17-6-2021_153816_localhost.jpeg
         image_alt: Lukuma.pe
-      - image_alt: lorem-ipsum
-        Mini-titulo: lorem-ipsum
+      - Mini-titulo: lorem-ipsum
     type: section_test
 seo:
   title: Stackbit Fresh Theme
