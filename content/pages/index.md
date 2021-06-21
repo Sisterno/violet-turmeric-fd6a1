@@ -26,6 +26,7 @@ sections:
         image: /images/Captura web_17-6-2021_153816_localhost.jpeg
         image_alt: Lukuma.pe
       - Mini-titulo: lorem-ipsum
+        image_alt: Dialgo
     type: section_test
 seo:
   title: Stackbit Fresh Theme
