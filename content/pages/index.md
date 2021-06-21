@@ -19,7 +19,7 @@ sections:
       - label: Contact Me
         url: /contact
         style: button
-  - title: lorem-ipsum
+  - title: Proyectos
     section_id: lorem-ipsum
     content:
       - Mini-titulo: Hola
