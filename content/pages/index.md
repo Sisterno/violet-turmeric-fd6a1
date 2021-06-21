@@ -22,8 +22,7 @@ sections:
   - title: lorem-ipsum
     section_id: lorem-ipsum
     content:
-      - image_alt: lorem-ipsum
-        Mini-titulo: Hola
+      - Mini-titulo: Hola
         image: /images/Captura web_17-6-2021_153816_localhost.jpeg
     type: section_test
 seo:
