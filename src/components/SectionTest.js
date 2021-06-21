@@ -23,7 +23,7 @@ export default class SectionTest extends React.Component {
 
         return (
             <section id={sectionId} className="block block-text">
-                {title && <h2 className="block-title underline inner-sm">Prueba de alt data XD - {title}</h2>}
+                {title && <h2 className="block-title underline inner-sm">{title}</h2>}
                 {/* {image && (
                     <div className="block-image">
                         <img src={withPrefix(image)} alt={imageAlt} />
