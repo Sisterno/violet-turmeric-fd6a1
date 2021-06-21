@@ -19,6 +19,10 @@ sections:
       - label: Contact Me
         url: /contact
         style: button
+  - title: lorem-ipsum
+    section_id: lorem-ipsum
+    content: []
+    type: section_test
 seo:
   title: Stackbit Fresh Theme
   description: The preview of the Fresh theme
