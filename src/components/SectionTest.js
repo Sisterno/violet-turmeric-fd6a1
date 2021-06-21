@@ -39,7 +39,7 @@ export default class SectionTest extends React.Component {
                     content.map((e)=>{
                         return(
                         <div className="block-buttons inner-sm">
-                            <img src={withPrefix(e['image'])} alt={imageAlt} />
+                            <img src={withPrefix(e['image'])} alt={e['imageAlt']} />
                             {e['Mini-titulo']}
                         </div>
                         )
