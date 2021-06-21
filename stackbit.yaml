@@ -282,6 +282,7 @@ models:
             - section_form
             - section_hero
             - section_posts
+            - section_test
       - type: model
         name: seo
         models:
