@@ -39,9 +39,7 @@ export default class SectionTest extends React.Component {
                     content.map((e)=>{
                         
                     })
-                    <div className="block-buttons inner-sm">
-                        XD
-                    </div>
+                    
                 )}
             </section>
         );
