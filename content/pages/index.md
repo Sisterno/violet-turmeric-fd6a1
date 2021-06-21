@@ -26,7 +26,7 @@ sections:
         image: /images/Captura web_17-6-2021_153816_localhost.jpeg
         image_alt: Lukuma.pe
       - image_alt: DialgoInvent
-        Mini-titulo: 'App de inventariado '
+        Mini-titulo: App de inventariado - Dialgo
     type: section_test
 seo:
   title: Stackbit Fresh Theme
