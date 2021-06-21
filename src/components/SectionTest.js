@@ -39,7 +39,7 @@ export default class SectionTest extends React.Component {
                     content.map((e)=>{
                         return(
                         <div className="block-buttons inner-sm">
-                            {e.}
+                            {e['Mini-titulo']}
                         </div>
                         )
                     })
