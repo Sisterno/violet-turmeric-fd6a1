@@ -168,7 +168,7 @@ models:
             value: orange
           - label: violet
             value: violet
-          - label: p
+          - label: ''
             value: pink
         default: green
         required: true
