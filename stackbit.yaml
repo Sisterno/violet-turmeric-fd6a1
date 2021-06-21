@@ -470,25 +470,24 @@ models:
         description: >-
           A unique identifier that can be used when linking to this section.
           Must not contain whitespace.
-      - type: image
-        name: image
-        label: Image
-        description: The image of the section.
-      - type: string
-        name: image_alt
-        label: Image alt text
-        description: The alt text of the section image.
-      - type: markdown
-        name: content
-        label: Content
-        description: The text content of the section.
       - type: list
-        name: actions
+        name: content
         label: Action Buttons
         items:
-          type: model
-          models:
-            - action
+          type: object
+          fields:
+            - type: image
+              name: image
+              label: Image
+              description: The image of the section.
+            - type: string
+              name: image_alt
+              label: Image alt text
+              description: The alt text of the section image.
+            - type: string
+              name: Mini-titulo
+              label: Mini-titulo
+              description: The title of the section.
     labelField: title
   section_posts:
     type: object
