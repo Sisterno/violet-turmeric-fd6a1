@@ -168,7 +168,31 @@ models:
             value: orange
           - label: violet
             value: violet
-          - label: ''
+          - label: >-
+              Tinción de Wright: es la empleada con mayor frecuencia en frotis
+              de sangre periférica o de médula ósea. Está clasificada como
+              tinción policromática, ya que tiñe compuestos básicos y ácidos de
+              las células. Se desarrolló por James Homer Wright en 1902 por
+              modificaciones de la tinción de Romanovsky. La eosina es ácida y
+              tiñe a los componentes básicos de color rosado a rojo (como los
+              gránulos eosinófilos). El metileno es básico y tiñe a los
+              componentes básicos de color azul (como el RNA). Tinción de
+              Giemsa: es la segunda tinción más utilizada, después de la de
+              Wright en frotis sanguíneos. El colorante empleado se compone de
+              la mezcla en tampón fosfato o en agua de azul de metileno, que
+              tiñe componentes ácidos, eosina, que tiñe los componentes básicos,
+              y distintos azures, que en función del pH del medio y del grado de
+              basofilia de las estructuras pueden producir coloraciones
+              metacromáticas. Tinción panóptico rápido: se caracteriza por
+              producir una coloración rápida y sencilla de las estructuras
+              celulares. Reúne la calidad y policromía de los métodos clásicos
+              de Wright y Giemsa con gran rapidez de actuación. Tiene la
+              característica de tratarse de un método de inmersión en el cual se
+              sumerge el frotis durante un tiempo establecido en una solución
+              colorante. Se producen coloraciones en las células sanguíneas
+              similares a las de las tinciones de Wright y de Giemsa, aunque si
+              se modifica el número de inmersiones se puede alterar la
+              intensidad de los rosas y azules.
             value: pink
         default: green
         required: true
