@@ -26,7 +26,7 @@ sections:
         image: /images/Captura web_17-6-2021_153816_localhost.jpeg
         image_alt: Lukuma.pe
       - image_alt: DialgoInvent
-        Mini-titulo: App de inventariado - Dialgo
+        Mini-titulo: App de inventariado   Dialgo
         image: /images/DialgoInv.png
     type: section_test
 seo:
