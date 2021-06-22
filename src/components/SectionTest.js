@@ -3,6 +3,7 @@ import _ from 'lodash';
 
 import { withPrefix, markdownify } from '../utils';
 import CtaButtons from './CtaButtons';
+import MyProjectCard from "./miniComponets/MyProjectCard"
 
 export default class SectionTest extends React.Component {
     render() {
@@ -22,8 +23,8 @@ export default class SectionTest extends React.Component {
         // const actions = _.get(section, 'actions');
 
         return (
-            <section id={sectionId} className="block block-text">
-                {title && <h2 className="block-title underline inner-sm">{title}</h2>}
+            <section id={sectionId} className="block block-text ">
+                {title && <h2 className="block-title inner-sm project-title">{title}</h2>}
                 {/* {image && (
                     <div className="block-image">
                         <img src={withPrefix(image)} alt={imageAlt} />
@@ -35,15 +36,24 @@ export default class SectionTest extends React.Component {
                         <CtaButtons actions={actions} />
                     </div>
                 )} */}
+                
                 {!_.isEmpty(content) && (
-                    content.map((e)=>{
-                        return(
-                        <div className="block-buttons inner-sm">
-                            <img src={withPrefix(e['image'])} alt={e['imageAlt']} />
-                            {e['Mini-titulo']}
-                        </div>
-                        )
-                    })
+                    <div className='project-cards-container'>
+                        {
+                            content.map((e)=>{
+                                return(
+                                    <MyProjectCard 
+                                        text={e['Mini-titulo']}
+                                        img={withPrefix(e['image'])}
+                                    />
+                                // <div className="block-buttons inner-sm">
+                                //     <img src={withPrefix(e['image'])} alt={e['imageAlt']} />
+                                //     {e['Mini-titulo']}
+                                // </div>
+                                )
+                            })
+                        }
+                    </div>
                 )}
             </section>
         );

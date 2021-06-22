@@ -73,3 +73,12 @@
     }
   }
 }
+.project-cards-container{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.project-title{
+  text-align: center;
+  padding: 0 0 40px 0;
+}
