@@ -22,7 +22,7 @@ sections:
   - title: Proyectos
     section_id: lorem-ipsum
     content:
-      - Mini-titulo: 'Lukuma.pe '
+      - Mini-titulo: Lukuma.pe web
         image: /images/Captura web_17-6-2021_153816_localhost.jpeg
         image_alt: Lukuma.pe
       - image_alt: DialgoInvent
