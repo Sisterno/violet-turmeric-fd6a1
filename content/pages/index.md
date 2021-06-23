@@ -30,7 +30,7 @@ sections:
         image: /images/DialgoInv.png
       - image_alt: lorem-ipsum
         Mini-titulo: lorem-ipsum
-        Subtext: Pr
+        Subtext: Prueba
       - image_alt: lorem-ipsum
         Mini-titulo: lorem-ipsum
       - image_alt: lorem-ipsum
