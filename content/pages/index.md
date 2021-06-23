@@ -12,9 +12,9 @@ sections:
     type: section_content
     title: "Who\_ is this guy?"
     content: >
-      Cusqueño, Peruano e Ingeniero de Sistemas. Soy un desarrollador backend
-      que conoció el maravilloso mundo de la programación cuando empezó a
-      investigar con se hacen los videojuegos. 
+      Peruano, Ingeniero de Sistemas. Soy un desarrollador backend que conoció
+      el maravilloso mundo de la programación cuando empezó a investigar con se
+      hacen los videojuegos.
     actions:
       - label: Contact Me
         url: /contact
