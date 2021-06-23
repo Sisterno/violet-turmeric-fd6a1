@@ -31,6 +31,7 @@ sections:
       - image_alt: Prueba
         Mini-titulo: Prueba
         Subtext: Prueba
+        image: /images/Hitzii-logo.jpg
       - image_alt: lorem-ipsum
         Mini-titulo: lorem-ipsum
       - image_alt: lorem-ipsum
