@@ -32,6 +32,8 @@ sections:
         Mini-titulo: lorem-ipsum
       - image_alt: lorem-ipsum
         Mini-titulo: lorem-ipsum
+      - image_alt: lorem-ipsum
+        Mini-titulo: lorem-ipsum
     type: section_test
 seo:
   title: Stackbit Fresh Theme
