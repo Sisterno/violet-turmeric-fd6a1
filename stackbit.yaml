@@ -492,7 +492,6 @@ models:
               name: Mini-titulo
               label: Mini-titulo
               description: The title of the section.
-            
     labelField: title
   section_posts:
     type: object
