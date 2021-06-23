@@ -20,6 +20,7 @@ export default class SectionTest extends React.Component {
         // const image = _.get(section, 'image');
         // const imageAlt = _.get(section, 'image_alt', '');
         const content = _.get(section, 'content');Subtext
+         const Subtext = _.get(section, 'Subtext');
         // const actions = _.get(section, 'actions');
 
         return (
