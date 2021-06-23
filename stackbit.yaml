@@ -489,7 +489,7 @@ models:
               label: Mini-titulo
               description: The title of the section.
             - type: string
-              name: Mini-titulo
+              name: Subtext
               label: Mini-titulo
               description: The title of the section.
     labelField: title
