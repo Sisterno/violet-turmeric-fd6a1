@@ -29,7 +29,7 @@ sections:
         Mini-titulo: App de inventariado   Dialgo
         image: /images/DialgoInv.png
       - image_alt: lorem-ipsum
-        Mini-titulo: lorem-ipsum
+        Mini-titulo: Prueba
         Subtext: Prueba
       - image_alt: lorem-ipsum
         Mini-titulo: lorem-ipsum
