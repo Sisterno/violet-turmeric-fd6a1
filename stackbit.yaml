@@ -490,7 +490,7 @@ models:
               description: The title of the section.
             - type: string
               name: Subtext
-              label: Mini-titulo
+              label: Subtext
               description: The title of the section.
     labelField: title
   section_posts:
