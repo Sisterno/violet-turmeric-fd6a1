@@ -46,6 +46,7 @@ export default class SectionTest extends React.Component {
                                     <MyProjectCard 
                                         text={e['Mini-titulo']}
                                         img={withPrefix(e['image'])}
+                                        tag={Subtext}
                                     />
                                 // <div className="block-buttons inner-sm">
                                 //     <img src={withPrefix(e['image'])} alt={e['imageAlt']} />
