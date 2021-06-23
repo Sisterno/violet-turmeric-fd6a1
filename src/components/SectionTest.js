@@ -20,7 +20,6 @@ export default class SectionTest extends React.Component {
         // const image = _.get(section, 'image');
         // const imageAlt = _.get(section, 'image_alt', '');
         const content = _.get(section, 'content');
-        const Subtext = _.get(section, 'Subtext');
         // const actions = _.get(section, 'actions');
 
         return (
@@ -46,7 +45,7 @@ export default class SectionTest extends React.Component {
                                     <MyProjectCard 
                                         text={e['Mini-titulo']}
                                         img={withPrefix(e['image'])}
-                                        tag={e['Mini-titulo']}
+                                        tag={e['Subtext']}
                                     />
                                 // <div className="block-buttons inner-sm">
                                 //     <img src={withPrefix(e['image'])} alt={e['imageAlt']} />
