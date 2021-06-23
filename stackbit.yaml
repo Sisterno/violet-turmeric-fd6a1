@@ -491,7 +491,7 @@ models:
             - type: string
               name: Subtext
               label: Subtext
-              description: The title of the section.
+              description: The Subtext of the section.
     labelField: title
   section_posts:
     type: object
