@@ -28,7 +28,7 @@ sections:
       - image_alt: DialgoInvent
         Mini-titulo: App de inventariado   Dialgo
         image: /images/DialgoInv.png
-      - image_alt: lorem-ipsum
+      - image_alt: Prueba
         Mini-titulo: Prueba
         Subtext: Prueba
       - image_alt: lorem-ipsum
