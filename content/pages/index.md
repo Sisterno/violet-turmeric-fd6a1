@@ -42,8 +42,7 @@ sections:
         image: /images/Captura web_26-6-2021_1610_sgaet.vercel.app.jpeg
         Subtext: ExpressJS | MongoDB | NextJS
     type: section_test
-  - title: lorem-ipsum
-    section_id: lorem-ipsum
+  - section_id: lorem-ipsum
     content: >-
       ## Lorem ipsum
 
