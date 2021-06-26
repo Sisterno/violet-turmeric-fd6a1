@@ -31,6 +31,7 @@ sections:
       - image_alt: Prueba
         Mini-titulo: API del Archivo de las Tormentas
         image: /images/Hitzii-logo.jpg
+        Subtext: ExpressJS | NodeJS
       - image_alt: lorem-ipsum
         Mini-titulo: lorem-ipsum
       - image_alt: lorem-ipsum
