@@ -39,6 +39,7 @@ sections:
         Subtext: HTML | CSS | NextJS | ReactJS
       - image_alt: lorem-ipsum
         Mini-titulo: lorem-ipsum
+        image: /images/Captura web_26-6-2021_1610_sgaet.vercel.app.jpeg
     type: section_test
 seo:
   title: Stackbit Fresh Theme
