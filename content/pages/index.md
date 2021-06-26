@@ -37,7 +37,7 @@ sections:
         image: /images/Captura web_26-6-2021_154943_sos-mg.com.jpeg
         Mini-titulo: SOS Medical Group Landpage
         Subtext: HTML | CSS | NextJS | ReactJS
-      - image_alt: lorem-ipsum
+      - image_alt: Amar
         Mini-titulo: lorem-ipsum
         image: /images/Captura web_26-6-2021_1610_sgaet.vercel.app.jpeg
     type: section_test
