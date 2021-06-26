@@ -35,6 +35,7 @@ sections:
         Subtext: ExpressJS | NodeJS
       - image_alt: lorem-ipsum
         Mini-titulo: lorem-ipsum
+        image: /images/Captura web_26-6-2021_154943_sos-mg.com.jpeg
       - image_alt: lorem-ipsum
         Mini-titulo: lorem-ipsum
     type: section_test
