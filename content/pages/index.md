@@ -29,7 +29,7 @@ sections:
         Mini-titulo: App de inventariado   Dialgo
         image: /images/DialgoInv.png
       - image_alt: Prueba
-        Mini-titulo: 'API del '
+        Mini-titulo: API del Archivo de las Tormentas
         Subtext: Prueba
         image: /images/Hitzii-logo.jpg
       - image_alt: lorem-ipsum
