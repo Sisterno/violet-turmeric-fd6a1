@@ -55,7 +55,7 @@ sections:
         options: []
         is_required: true
         type: form_field
-        default_value: correoFalso@
+        default_value: correoFalso@nosequeponer.com
     submit_label: lorem-ipsum
     type: section_form
 seo:
