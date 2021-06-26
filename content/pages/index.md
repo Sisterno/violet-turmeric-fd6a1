@@ -29,7 +29,7 @@ sections:
         Mini-titulo: App de inventariado   Dialgo
         image: /images/DialgoInv.png
       - image_alt: Prueba
-        Mini-titulo: Prueba
+        Mini-titulo: 'API '
         Subtext: Prueba
         image: /images/Hitzii-logo.jpg
       - image_alt: lorem-ipsum
