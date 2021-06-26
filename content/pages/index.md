@@ -52,7 +52,6 @@ sections:
       - input_type: text
         name: lorem-ipsum
         label: Correo
-        default_value: lorem-ipsum
         options: []
         is_required: true
         type: form_field
