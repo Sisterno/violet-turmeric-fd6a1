@@ -30,7 +30,7 @@ sections:
         image: /images/DialgoInv.png
       - image_alt: SA_API
         Mini-titulo: API del Archivo de las Tormentas
-        image: /images/Hitzii-logo.jpg
+        image: /images/set_stormlight_5.jpg
         Subtext: ExpressJS | NodeJS
       - image_alt: lorem-ipsum
         Mini-titulo: lorem-ipsum
