@@ -43,17 +43,9 @@ sections:
         Subtext: ExpressJS | MongoDB | NextJS
     type: section_test
   - section_id: Contac me
-    content: >-
-      ## Lorem ipsum
-
-
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-      - Lorem ipsum
-
-      - dolor sit amet
+    content: >
+      Tienes alguna sugerencia para la pagina, idea de proyecto, critica
+      "constructiva". Puedes enviarme un correo a gonzalo@sisterno.com
     form_id: lorem-ipsum
     form_action: lorem-ipsum
     form_fields:
