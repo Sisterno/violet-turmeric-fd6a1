@@ -58,6 +58,7 @@ sections:
         default_value: correoFalso@nosequeponer.com
     submit_label: Enviar
     type: section_form
+    title: Contact me
 seo:
   title: Stackbit Fresh Theme
   description: The preview of the Fresh theme
