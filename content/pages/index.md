@@ -30,7 +30,6 @@ sections:
         image: /images/DialgoInv.png
       - image_alt: Prueba
         Mini-titulo: API del Archivo de las Tormentas
-        Subtext: Prueba
         image: /images/Hitzii-logo.jpg
       - image_alt: lorem-ipsum
         Mini-titulo: lorem-ipsum
