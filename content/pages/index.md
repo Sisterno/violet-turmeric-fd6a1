@@ -35,6 +35,7 @@ sections:
         Subtext: ExpressJS | NodeJS
       - image_alt: SOS_WEB
         image: /images/Captura web_26-6-2021_154943_sos-mg.com.jpeg
+        Mini-titulo: SOS Medical Group web
       - image_alt: lorem-ipsum
         Mini-titulo: lorem-ipsum
     type: section_test
