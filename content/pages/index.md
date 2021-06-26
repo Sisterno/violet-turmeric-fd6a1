@@ -40,6 +40,7 @@ sections:
       - image_alt: Amaru_System
         Mini-titulo: Sistema de  Gestión de Agencia turística AMARU
         image: /images/Captura web_26-6-2021_1610_sgaet.vercel.app.jpeg
+        Subtext: ExpressJS | Mongo
     type: section_test
 seo:
   title: Stackbit Fresh Theme
