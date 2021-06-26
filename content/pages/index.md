@@ -33,7 +33,7 @@ sections:
         Mini-titulo: API del Archivo de las Tormentas
         image: /images/set_stormlight_5.jpg
         Subtext: ExpressJS | NodeJS
-      - image_alt: lorem-ipsum
+      - image_alt: SOS
         Mini-titulo: lorem-ipsum
         image: /images/Captura web_26-6-2021_154943_sos-mg.com.jpeg
       - image_alt: lorem-ipsum
