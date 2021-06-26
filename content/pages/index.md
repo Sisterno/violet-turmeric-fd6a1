@@ -42,7 +42,7 @@ sections:
         image: /images/Captura web_26-6-2021_1610_sgaet.vercel.app.jpeg
         Subtext: ExpressJS | MongoDB | NextJS
     type: section_test
-  - section_id: Contac me
+  - section_id: Contac_me
     content: >
       Tienes alguna sugerencia para la pagina, idea de proyecto, critica
       "constructiva". Puedes enviarme un correo a gonzalo@sisterno.com
