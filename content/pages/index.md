@@ -55,6 +55,7 @@ sections:
         options: []
         is_required: true
         type: form_field
+        default_value: dsa
     submit_label: lorem-ipsum
     type: section_form
 seo:
