@@ -38,7 +38,7 @@ sections:
         Mini-titulo: SOS Medical Group Landpage
         Subtext: HTML | CSS | NextJS | ReactJS
       - image_alt: Amaru_System
-        Mini-titulo: Sistema de  Gestion de Agencia turistica AMARU
+        Mini-titulo: Sistema de  Gestion de Agencia turística AMARU
         image: /images/Captura web_26-6-2021_1610_sgaet.vercel.app.jpeg
     type: section_test
 seo:
