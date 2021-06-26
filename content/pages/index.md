@@ -17,7 +17,7 @@ sections:
       hacen los videojuegos.
     actions:
       - label: Contact Me
-        url: 'www.sisterno.com#contacMe'
+        url: 'www.sisterno.com#contactMe'
         style: button
   - title: Proyectos
     section_id: lorem-ipsum
