@@ -56,7 +56,7 @@ sections:
         is_required: true
         type: form_field
         default_value: correoFalso@nosequeponer.com
-    submit_label: lorem-ipsum
+    submit_label: Enviar
     type: section_form
 seo:
   title: Stackbit Fresh Theme
