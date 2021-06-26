@@ -34,7 +34,7 @@ sections:
         image: /images/set_stormlight_5.jpg
         Subtext: ExpressJS | NodeJS
       - image_alt: SOS_WEB
-        Mini-titulo: lorem-ipsum
+        Mini-titulo: em SOS
         image: /images/Captura web_26-6-2021_154943_sos-mg.com.jpeg
       - image_alt: lorem-ipsum
         Mini-titulo: lorem-ipsum
