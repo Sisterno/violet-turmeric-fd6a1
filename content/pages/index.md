@@ -28,7 +28,7 @@ sections:
       - image_alt: DialgoInvent
         Mini-titulo: App de inventariado   Dialgo
         image: /images/DialgoInv.png
-      - image_alt: AS
+      - image_alt: SA_
         Mini-titulo: API del Archivo de las Tormentas
         image: /images/Hitzii-logo.jpg
         Subtext: ExpressJS | NodeJS
