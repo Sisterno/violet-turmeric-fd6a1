@@ -28,7 +28,7 @@ sections:
       - image_alt: DialgoInvent
         Mini-titulo: App de inventariado   Dialgo
         image: /images/DialgoInv.png
-        Subtext: 'Dark | '
+        Subtext: Dark | Flutter
       - image_alt: SA_API
         Mini-titulo: API del Archivo de las Tormentas
         image: /images/set_stormlight_5.jpg
