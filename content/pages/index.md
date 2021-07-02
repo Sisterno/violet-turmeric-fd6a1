@@ -27,6 +27,7 @@ sections:
         Mini-titulo: App de inventariado   Dialgo
         image: /images/DialgoInv.png
         Subtext: Dark | Flutter
+        github_url: 'https://github.com/Sisterno/dialgo-inventario-flutter-app'
       - image_alt: SA_API
         Mini-titulo: API del Archivo de las Tormentas
         image: /images/set_stormlight_5.jpg
