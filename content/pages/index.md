@@ -15,10 +15,7 @@ sections:
       Peruano, Ingeniero de Sistemas. Soy un desarrollador backend que conoció
       el maravilloso mundo de la programación cuando empezó a investigar con se
       hacen los videojuegos.
-    actions:
-      - label: Contact Me
-        url: 'www.sisterno.com#contactMe'
-        style: button
+    actions: []
   - title: Proyectos
     section_id: lorem-ipsum
     content:
