@@ -37,6 +37,7 @@ sections:
         image: /images/Captura web_26-6-2021_154943_sos-mg.com.jpeg
         Mini-titulo: SOS Medical Group Landpage
         Subtext: HTML | CSS | NextJS | ReactJS
+        github_url: 'https://github.com/Sisterno/SOS-MG-WEB'
       - image_alt: Amaru_System
         Mini-titulo: Sistema de  Gestión de Agencia turística AMARU
         image: /images/Captura web_26-6-2021_1610_sgaet.vercel.app.jpeg
