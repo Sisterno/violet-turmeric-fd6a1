@@ -492,6 +492,10 @@ models:
               name: Subtext
               label: Subtext
               description: The Subtext of the section.
+            - type: string
+              name: github_url
+              label: github_url
+              description: The Subtext of the section.
     labelField: title
   section_posts:
     type: object
