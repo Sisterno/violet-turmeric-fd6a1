@@ -17,7 +17,7 @@ export default function myProjectCard(
                     <h1>{text}</h1>
                     <p>{tag}</p>
                     <ul>
-                        <li><a href="#"><i class="fa fa-github" aria-hidden="true"></i></a></li>
+                        <li><a href="#"><i aria-hidden="true"></i></a></li>
                     </ul>
                 </div>
             </div>
