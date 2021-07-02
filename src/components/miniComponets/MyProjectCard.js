@@ -19,7 +19,7 @@ export default function myProjectCard(
                     <ul>
                         <li>
                             <a href="#">
-                                <img src='../../../public/images/' alt='next' />
+                                <img src='../../../public/images/custom/github.svg' alt='next' />
                             </a>
                         </li>
                     </ul>
