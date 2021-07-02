@@ -22,6 +22,7 @@ sections:
       - Mini-titulo: Lukuma.pe web
         image: /images/Captura web_17-6-2021_153816_localhost.jpeg
         image_alt: Lukuma.pe
+        github_url: 'https://github.com/Sisterno/Lukuma-frontend'
       - image_alt: DialgoInvent
         Mini-titulo: App de inventariado   Dialgo
         image: /images/DialgoInv.png
