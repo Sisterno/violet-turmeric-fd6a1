@@ -4,7 +4,7 @@ export default function myProjectCard(
     {
         text = 'Lukuma.pe web',
         tag = "JS | Nextjs",
-        img = "http://1.bp.blogspot.com/-EhPr4LXcywE/Udr594sPHTI/AAAAAAAAAJ4/Tv4y4CBLTPM/s400/Cristina-Otero-2.jpg"
+        img = "http://1.bp.blogspot.com/-EhPr4LXcywE/Udr594sPHTI/AAAAAAAAAJ4/Tv4y4CBLTPM/s400/Cristina-Otero-2.jpg",
         github = "#"
     },
 ){
