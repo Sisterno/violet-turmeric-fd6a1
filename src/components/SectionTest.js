@@ -46,7 +46,7 @@ export default class SectionTest extends React.Component {
                                         text={e['Mini-titulo']}
                                         img={withPrefix(e['image'])}
                                         tag={e['Subtext']}
-                                        github={e['Subtext']}
+                                        github={e['github_url']}
                                     />
                                 // <div className="block-buttons inner-sm">
                                 //     <img src={withPrefix(e['image'])} alt={e['imageAlt']} />
