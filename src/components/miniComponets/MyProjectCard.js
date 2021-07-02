@@ -17,8 +17,11 @@ export default function myProjectCard(
                     <h1>{text}</h1>
                     <p>{tag}</p>
                     <ul>
-                        <li><a href="#">
-                        </a></li>
+                        <li>
+                            <a href="#">
+                                
+                            </a>
+                        </li>
                     </ul>
                 </div>
             </div>
