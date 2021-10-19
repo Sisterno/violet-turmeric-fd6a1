@@ -11,7 +11,7 @@ sections:
       Machine Learning también. Un gusto ternarte por acá.
   - section_id: about
     type: section_content
-    title: "Who\_ is this guy?"
+    title: Quien es este men?
     content: >
       Peruano, Ingeniero de Sistemas. Soy un desarrollador backend que conoció
       el maravilloso mundo de la programación cuando empezó a investigar con se
