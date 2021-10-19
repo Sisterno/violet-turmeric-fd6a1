@@ -26,13 +26,6 @@
                 "new_window": true
             },
             {
-                "label": "Instagram",
-                "url": "https://www.instagram.com/sisterno_98/",
-                "style": "icon",
-                "icon_class": "instagram",
-                "new_window": true
-            },
-            {
                 "label": "GitHub",
                 "url": "https://github.com/Sisterno",
                 "style": "icon",
