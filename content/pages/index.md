@@ -62,7 +62,7 @@ sections:
     type: section_form
     title: Contact me
 seo:
-  title: Stackbit Fresh Theme
+  title: 'Sisterno; be curious, be happy '
   description: The preview of the Fresh theme
   extra:
     - name: 'og:type'
