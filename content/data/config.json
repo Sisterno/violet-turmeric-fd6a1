@@ -8,7 +8,7 @@
         "profile_img": "/images/kind-onion.JPG",
         "profile_img_alt": "Author avatar",
         "background": "dark",
-        "has_nav": false,
+        "has_nav": true,
         "nav_links": [
             {
                 "label": "Home",
