@@ -63,7 +63,8 @@ sections:
     title: Contact me
 seo:
   title: 'Sisterno; be curious, be happy '
-  description: The preview of the Fresh theme
+  description: |
+    Sisterno; be curious, be happy 
   extra:
     - name: 'og:type'
       value: website
