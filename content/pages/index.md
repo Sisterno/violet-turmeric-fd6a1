@@ -63,8 +63,10 @@ sections:
     title: Contact me
 seo:
   title: 'Sisterno; be curious, be happy '
-  description: |
-    Sisterno; be curious, be happy 
+  description: |-
+    Sisterno's blog; be curious, be happy. 
+     
+    Gonzalo Rojas Alvarez
   extra:
     - name: 'og:type'
       value: website
