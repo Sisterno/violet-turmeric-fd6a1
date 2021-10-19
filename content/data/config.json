@@ -7,7 +7,7 @@
         "title": "Sisterno",
         "profile_img": "/images/kind-onion.JPG",
         "profile_img_alt": "Author avatar",
-        "background": "light",
+        "background": "dark",
         "has_nav": true,
         "nav_links": [
             {
