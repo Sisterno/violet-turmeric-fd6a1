@@ -13,9 +13,9 @@ sections:
     type: section_content
     title: ¿ Quien es “Sisterno” ?
     content: >
-      Peruano, Ingeniero de Sistemas. Soy un desarrollador backend que conoció
-      el maravilloso mundo de la programación cuando empezó a investigar con se
-      hacen los videojuegos.
+      Sisterno es el nickname que utilizo para todo; Twitter, YouTube, Linkedin,
+      videojuegos, etc. Un dato importante es que se escribe “Sisterno” pero se
+      pronuncia /sireno/ . 
     actions: []
   - title: Proyectos
     section_id: lorem-ipsum
