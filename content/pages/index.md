@@ -46,7 +46,7 @@ sections:
     type: section_test
   - section_id: contactMe
     content: >
-      Tienes alguna sugerencia para la pagina, idea de proyecto, critica
+      Tienes alguna sugerencia para la página, idea de proyecto, critica
       "constructiva". Puedes enviarme un correo a gonzalo@sisterno.com
     form_id: lorem-ipsum
     form_action: lorem-ipsum
