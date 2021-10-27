@@ -94,7 +94,7 @@ seo:
          
         Gonzalo Rojas Alvarez
     - name: 'twitter:image'
-      value: images/4.jpg
+      value: /images/Background.webp
       relativeUrl: true
 layout: advanced
 excerpt: Sisterno's blog
