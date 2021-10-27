@@ -72,7 +72,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: Stackbit Fresh Theme
+      value: 'Sisterno''s blog; be curious, be happy. '
       keyName: property
     - name: 'og:description'
       value: |-
