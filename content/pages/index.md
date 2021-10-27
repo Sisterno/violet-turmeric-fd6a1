@@ -8,7 +8,7 @@ sections:
     content: >
       Soy un desarrollador web fullstack. Me encanta enfocarme en toda la parte
       de flujo de información de las app. Actualmente estoy estudiando Crypto y
-      Machine Learning también. Un gusto ternarte por acá.
+      Machine Learning también. Un gusto tenerte por acá.
   - section_id: about
     type: section_content
     title: ¿ Quien es “Sisterno” ?
