@@ -81,7 +81,7 @@ seo:
         Gonzalo Rojas Alvarez
       keyName: property
     - name: 'og:image'
-      value: images/4.jpg
+      value: /images/Ellipse 1.png
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
