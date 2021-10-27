@@ -4,7 +4,7 @@ hide_title: true
 sections:
   - section_id: hero
     type: section_hero
-    title: 'Hi, Soy Gonzalo Rojas A.'
+    title: 'Hola, Soy Gonzalo Rojas Alvarez'
     content: >
       Soy un desarrollador web fullstack. Me encanta enfocarme en toda la parte
       de flujo de información de las app. Actualmente estoy estudiando Crypto y
