@@ -75,7 +75,7 @@
 }
 .project-cards-container{
   display: flex;
-  
+  justify-items: center;
   flex-wrap: wrap;
   flex-direction: row;
   justify-content: space-between;
