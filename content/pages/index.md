@@ -75,7 +75,10 @@ seo:
       value: Stackbit Fresh Theme
       keyName: property
     - name: 'og:description'
-      value: The preview of the Fresh theme
+      value: |-
+        Sisterno's blog; be curious, be happy. 
+         
+        Gonzalo Rojas Alvarez
       keyName: property
     - name: 'og:image'
       value: images/4.jpg
