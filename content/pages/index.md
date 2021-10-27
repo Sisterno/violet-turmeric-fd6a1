@@ -89,7 +89,10 @@ seo:
     - name: 'twitter:title'
       value: 'Sisterno''s blog; be curious, be happy. '
     - name: 'twitter:description'
-      value: The preview of the Fresh theme
+      value: |-
+        Sisterno's blog; be curious, be happy. 
+         
+        Gonzalo Rojas Alvarez
     - name: 'twitter:image'
       value: images/4.jpg
       relativeUrl: true
